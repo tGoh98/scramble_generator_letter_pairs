@@ -1,0 +1,17 @@
+//Type the letter pairs you would like to drill on separate lines
+//Lines that begin with two slashes (//) will not be read
+BL
+BK
+BH
+HP
+PH
+BS
+SB
+GE
+EG
+BE
+EB
+MO
+OM
+PO
+OP
