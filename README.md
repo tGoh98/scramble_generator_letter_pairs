@@ -1,6 +1,5 @@
 # Scramble Generator - Letter Pairs
-This program generates scrambles containing specific letter pairs.
-It works by scramble filtering. It generates a scramble and the corresponding memo for it, then checks to see if your desired letters pairs appear x times in the memo. If it does, it displays the scramble. If not, it will gen another scramble.
+This program uses scramble filtering to generate scrambles containing specific letter pairs. It checks each generated scramble's memo to see if the desired letters pairs appear x times in the memo. If it does, it displays the scramble. If not, it will gen another scramble.
 
 ## To run
 1. Clone and extract the repo
